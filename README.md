@@ -1,3 +1,4 @@
-# Dm9Records Build Guides
+# TOP
 
-- ## [3bands Audio Isolator kit for DJs](isolator/3bands-audio-isolator-kit-for-djs.md)
+* \*\*\*\*[**3bands Audio Isolator kit for DJs**](3bands-audio-isolator-kit-for-djs.md)\*\*\*\*
+
