@@ -83,22 +83,31 @@ For power status.
 - PCB dimentions
     - main
     ![main pcb](assets/pcb_dimention_main.jpg)
+    [pcb_dimention_main](assets/pcb_dimention_main.jpg)
     - power
     ![power pcb](assets/pcb_dimention_power.jpg)
+    [pcb_dimention_power](assets/pcb_dimention_power.jpg)
 
 ## Assembly
 
 ### Power PCB
 ![assets/pcb_power_board_top.jpg](assets/pcb_power_board_top.jpg)
+[pcb_power_board_top.jpg](assets/pcb_power_board_top.jpg)
+
 ![assets/pcb_power_board_bottom.jpg](assets/pcb_power_board_bottom.jpg)
+[pcb_power_board_bottom.jpg](assets/pcb_power_board_bottom.jpg)
 
 You should install a fuse(maybe 1A) between power input and power unit pcb.
 And don't forget heatsink of voltage regulators.
 
 ### Main PCB
 ![assets/pcb_iso_board_top.jpg](assets/pcb_iso_board_top.jpg)
+[pcb_iso_board_top.jpg](assets/pcb_iso_board_top.jpg)
+
 ![assets/pcb_iso_board_bottom.jpg](assets/pcb_iso_board_bottom.jpg)
+[pcb_iso_board_bottom.jpg](assets/pcb_iso_board_bottom.jpg)
 
 #### Need solder bridge!
 ![assets/main_solder_bridge.jpg](assets/main_solder_bridge.jpg)
+[main_solder_bridge.jpg](assets/main_solder_bridge.jpg)
 Please make solder bridge between pin13 and pin14 at IC7.
